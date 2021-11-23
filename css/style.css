@@ -1,6 +1,6 @@
 .body{
 	color:black;
-	
+	font-family: 'Roboto', sans-serif;
 }
 .navbar{
 	color: red;
@@ -9,7 +9,7 @@
 }
 
 .container_portfolio{
-	padding: 50px;
+	padding: 30px;
 	background-color: #e6e6e6;
 	
 	
@@ -23,6 +23,13 @@
 .container_about {
 	padding: 40px;
 	background-color: #e6e6e6;
-	
-	
+		
+}
+.row_discgolf{
+	background-color: #e6e6e6;
+	padding: 20px;
+}
+.row_discgolf_artiststatement{
+	background-color: #b3b3b3;
+	padding: 
 }
