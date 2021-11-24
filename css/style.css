@@ -1,10 +1,13 @@
-.body{
-	color:black;
+a.navbar-brand{
+	color: Black;
+	padding: 15px;
 }
-.navbar{
-	color: red;
-	padding: 20px;
-	
+.nav-link{
+	color: Black;
+}
+.body{
+	color: black;
+	padding: 30px;
 }
 
 .container_portfolio{
@@ -19,8 +22,9 @@
 	color:  #1a1a1a;
 }
 .container_about {
-	padding: 40px;
+	padding: 25px;
 	background-color: #e6e6e6;
+	height: 100vh;
 		
 }
 .row_discgolf{
@@ -66,12 +70,13 @@
 .text{
 	background-color: black;
 	color: lightblue;
-	font-size: 10px;
+	font-size: 12px;
 	padding: 10px 20px;
 }
 .container_portfolio_2{
 	padding: 30px;
 	background-color: #e6e6e6;
+	height: 100vh;
 	
 }
 .row_africa{
