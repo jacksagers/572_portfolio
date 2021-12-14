@@ -20,11 +20,13 @@ a.navbar-brand{
 	padding: 20px;
 	background-color: #e6e6e6;
 	color:  #1a1a1a;
+	width: 100vw;
 }
 .container_about {
 	padding: 25px;
 	background-color: #e6e6e6;
 	height: 100vh;
+	width: 100vw;
 		
 }
 .row_discgolf{
@@ -33,7 +35,6 @@ a.navbar-brand{
 }
 .row_discgolf_artiststatement{
 	background-color: #b3b3b3;
-	padding: 
 }
 .row_anseladams{
 	background-color: #e6e6e6;
